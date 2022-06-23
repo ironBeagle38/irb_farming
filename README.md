@@ -1,4 +1,4 @@
-# IRG Farming:
+# IRB Farming:
 
 Farming script in predefined areas.
 Based on the work of RexShack and prp_farming. Reworked to be compatible with VORPcore.
@@ -13,7 +13,7 @@ RexShack github: https://github.com/RexShack
 
 # Installation:
 - ensure that the dependancies are added and started
-- add irg_farming to your resources folder
+- add irb_farming to your resources folder
 - add planting.sql
 - add images to your "\vorp_inventory\html\img"
 
