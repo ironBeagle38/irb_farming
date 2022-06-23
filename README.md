@@ -15,7 +15,7 @@ RexShack github: https://github.com/RexShack
 - ensure that the dependancies are added and started
 - add irg_farming to your resources folder
 - add planting.sql
-- add images to your "\vorp\html\images"
+- add images to your "\vorp_inventory\html\img"
 
 
 # Starting the resource:
