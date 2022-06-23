@@ -25,5 +25,3 @@ RexShack github: https://github.com/RexShack
 
 - discord VORP: https://discord.gg/bbskt6SrrF
 - discord: Gringo#4511
-# irg_farming
-# irg_farming
