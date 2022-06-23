@@ -8,11 +8,11 @@ version '1.0'
 author 'ironBeagle'
 
 client_scripts {
-    '@polyzone/client.lua',
-    '@polyzone/BoxZone.lua',
-    '@polyzone/EntityZone.lua',
-    '@polyzone/CircleZone.lua',
-    '@polyzone/ComboZone.lua',
+    '@PolyZone/client.lua',
+    '@PolyZone/BoxZone.lua',
+    '@PolyZone/EntityZone.lua',
+    '@PolyZone/CircleZone.lua',
+    '@PolyZone/ComboZone.lua',
     'client/client.lua',
     'client/functions.lua'
 }
