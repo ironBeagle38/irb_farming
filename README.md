@@ -1,4 +1,4 @@
-# IRG Garming:
+# IRG Farming:
 
 Farming script in predefined areas.
 Based on the work of RexShack and on prp_farming. Reworked to be compatible with VORPcore.
