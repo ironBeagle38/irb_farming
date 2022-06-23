@@ -17,10 +17,6 @@ RexShack github: https://github.com/RexShack
 - add planting.sql
 - add images to your "\vorp_inventory\html\img"
 
-
-# Starting the resource:
-- add the following to your ressource.cfg file : ensure irg_farming
-
 # Support:
 
 - discord VORP: https://discord.gg/bbskt6SrrF
