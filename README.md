@@ -1,7 +1,7 @@
 # IRG Farming:
 
 Farming script in predefined areas.
-Based on the work of RexShack and on prp_farming. Reworked to be compatible with VORPcore.
+Based on the work of RexShack and prp_farming. Reworked to be compatible with VORPcore.
 Easily configurable. English and French versions
 
 RexShack github: https://github.com/RexShack
